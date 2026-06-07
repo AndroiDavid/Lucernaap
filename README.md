@@ -1,6 +1,6 @@
 [README.1.md](https://github.com/user-attachments/files/28687132/README.1.md)
 
-# 🕯️ Lucernapp
+#  Lucernapp
 
 <div align="center">
 
