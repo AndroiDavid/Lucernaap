@@ -44,7 +44,7 @@
 
 ## 🕯️ ¿Qué es Lucernapp?
 
-**Lucernapp** *(del latín lucerna — lámpara, luz)* es una aplicación Android nativa para la **gestión integral de congregaciones religiosas**. Permite a publicadores, ancianos y secretarios gestionar todo su trabajo desde una sola app — sin depender de software externo de pago.
+**Lucernapp** *(del latín lucerna — lámpara, luz)* es una aplicación Android nativa para la **gestión integral de congregaciones**. Permite a publicadores, ancianos y secretarios gestionar todo su trabajo desde una sola app — sin depender de software externo de pago.
 
 > 💡 Competidor directo de **NW Publisher** (1.7M descargas, ⭐ 4.84) — con funcionalidades que este no tiene: mapa de territorios, intercambio de asignaciones, panel web para ancianos y reporte completo del secretario.
 
